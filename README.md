@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there! 👋 I'm Likitha
 
-<!--
-**Likitha04-coder/Likitha04-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate | 🎓 MSc AI @ Queen's University Belfast
+🤖 Aspiring ML/AI Engineer | 💻 Full Stack Developer
+📍 Belfast, UK | ✅ Right to work in UK
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- 🐍 Python | Java | C++ | SQL
+- 🤖 TensorFlow | scikit-learn | OpenCV | MediaPipe
+- 🌐 FastAPI | PostgreSQL | Docker
+- 📊 Git & GitHub | Jupyter | VS Code
+
+---
+
+## 🌱 Currently Learning
+- Machine Learning & Deep Learning
+- Computer Vision Projects
+- Full Stack Web Development
+
+---
+
+## 🚀 Projects (Coming Soon!)
+- 🖐️ Hand Gesture Recognition
+- 🎭 Face Detection System
+- 📊 Data Analysis Dashboard
+
+---
+
+## 📫 How to Reach Me
+- GitHub: [@Likitha04-coder](https://github.com/Likitha04-coder)
+- Email: likithap2404@gmail.com
+- LinkedIn: [Likitha Puttaraju](https://www.linkedin.com/in/likitha-putta-raju-904a551b0/)
+
+---
+
+⭐ *"Learning something new every day!"*
