@@ -33,8 +33,7 @@
 |---------|-------------|------|
 | [🔗 Network Anomaly Detection](https://github.com/Likitha04-coder/network-anomaly-detection) | Autoencoder-based intrusion detection (95%+ accuracy) | Python, TensorFlow, Scikit-learn |
 | 📉 Customer Churn Analysis & Prediction | Exploratory Data Analysis and machine learning model to predict customer churn with business-driven retention insights. *(Coming Soon)* | Python, Pandas, Scikit-learn, Seaborn, Matplotlib |
-| 📈 Sales Performance & KPI Dashboard | Interactive data analysis dashboard identifying revenue trends, profit margins, and monthly performance KPIs. *(Coming Soon)* | Power BI (or Tableau), SQL, Python |
-
+| 💳 Credit Card Fraud Detection & Risk Analysis | Imbalanced classification model to detect fraudulent transactions using precision-recall optimization and risk-based evaluation metrics. *(Coming Soon)* | Python, Pandas, Scikit-learn, Seaborn, Matplotlib |
 ---
 
 ## 📊 GitHub Stats
