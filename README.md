@@ -39,9 +39,11 @@
 
 ## 📊 GitHub Stats
 
-![Likitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Likitha04-coder&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Likitha04-coder&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Likitha04-coder&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likitha04-coder&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
