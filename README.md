@@ -1,38 +1,56 @@
-# Hi there! 👋 I'm Likitha
+# 👋 Hi, I'm Likitha Putta Raju
 
-🎓 MCA Graduate | 🎓 MSc AI @ Queen's University Belfast
-🤖 Aspiring ML/AI Engineer | 💻 Full Stack Developer
+🎓 **MSc Artificial Intelligence** — Queen's University Belfast
+🎓 **MCA** — KLE Society's S. Nijalingappa College, Bengaluru
+🤖 AI/ML Engineer | Data Scientist | Computer Vision
 📍 Belfast, UK | ✅ Right to work in UK
 
 ---
 
-## 🔧 Technologies & Tools
-- 🐍 Python | Java | C++ | SQL
-- 🤖 TensorFlow | scikit-learn | OpenCV | MediaPipe
-- 🌐 FastAPI | PostgreSQL | Docker
-- 📊 Git & GitHub | Jupyter | VS Code
+## 🛠️ Tech Stack
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | Python, Java, SQL, C++ |
+| **ML/AI** | TensorFlow, Scikit-learn, OpenCV, MediaPipe |
+| **Data** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Backend** | FastAPI, PostgreSQL, Docker |
+| **Tools** | Git, GitHub, Jupyter, VS Code |
 
 ---
 
-## 🌱 Currently Learning
-- Machine Learning & Deep Learning
-- Computer Vision Projects
-- Full Stack Web Development
+## 💼 Experience
+
+- 🔹 **Software Developer** — Global Tech, London *(Remote | 2025)*
+- 🔹 **Data Science Intern** — Accurate Info Solution, Bengaluru *(2023)*
+- 🔹 **Data Analyst** — Certisured *(2021–2022)*
 
 ---
 
-## 🚀 Projects (Coming Soon!)
-- 🖐️ Hand Gesture Recognition
-- 🎭 Face Detection System
-- 📊 Data Analysis Dashboard
+## 🚀 Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🔗 Network Anomaly Detection](https://github.com/Likitha04-coder/network-anomaly-detection) | Autoencoder-based intrusion detection (95%+ accuracy) | Python, TensorFlow, Scikit-learn |
+| 🖐️ Hand Gesture Recognition | Real-time gesture detection *(Coming Soon)* | OpenCV, MediaPipe |
+| 📊 Data Analysis Dashboard | EDA & Visualization *(Coming Soon)* | Pandas, Matplotlib |
 
 ---
 
-## 📫 How to Reach Me
-- GitHub: [@Likitha04-coder](https://github.com/Likitha04-coder)
-- Email: likithap2404@gmail.com
-- LinkedIn: [Likitha Puttaraju](https://www.linkedin.com/in/likitha-putta-raju-904a551b0/)
+## 📊 GitHub Stats
+
+![Likitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Likitha04-coder&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Likitha04-coder&layout=compact&theme=tokyonight)
 
 ---
 
-⭐ *"Learning something new every day!"*
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likitha-putta-raju-904a551b0/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Likitha04-coder)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likithap2404@gmail.com)
+
+---
+
+⭐ *"Code. Learn. Build. Repeat."*
