@@ -1,0 +1,6 @@
+TrafficLabelling/
+.ipynb_checkpoints/
+*.html
+*.zip
+*.csv
+__pycache__/
