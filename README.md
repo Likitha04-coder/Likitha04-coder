@@ -40,10 +40,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Likitha04-coder&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likitha04-coder&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Likitha04-coder&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 ---
 
